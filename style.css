@@ -1,8 +1,14 @@
 body{
     background-color: bisque;
+    text-align: center;
 }
 
 H1 {
     color: brown;
     text-align: center;
+}
+
+#catImage {
+   
+    width: 300px;
 }
